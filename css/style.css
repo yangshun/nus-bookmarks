@@ -3,5 +3,6 @@
 body { font-family: 'Open Sans', sans-serif; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Arvo', sans-serif; color: #666; }
 h1 { font-size: 48px; }
+h2 { margin-top: 36px; }
 a { color: #09c; text-decoration: none; }
 a:hover { color: rgb(0, 70, 94); }
